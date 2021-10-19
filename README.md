@@ -1,3 +1,3 @@
 # LatihanVCS
 
-assalamualaikum
+assalamualaikum ukhti
