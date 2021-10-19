@@ -1,5 +1,4 @@
 # LatihanVCS
 
 assalamualaikum ukhti
-
-![Gambar 1](screnshot/langkah1.png)
+![Gambar 1](screnshot/langkah1.PNG)
