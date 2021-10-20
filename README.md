@@ -49,7 +49,7 @@ $ git config --list
     Jika kita menggunakan windows, buka file explorer kemudian buatlah sebuah folder baru.
 Saya membuatnya di D:\hizbull . Di dalam folder ini, klik kanan kemudian pilih Git bash here.
 
-![Gambar 4.1](Screenshot/langkah4.1.PNG)
+![Gambar 4.1](Screenshot/langkah4.1.jpg)
 
 Kemudian ketik perintah seperti ini :
 
@@ -105,6 +105,8 @@ $ git remote add origin [url]
 url nya sesuaikan dengan akun github milik kita. contohnya :
 $ git remote add origin https://github.com/Ridwanwildan/LatihanVCS.git
 
+catatan : tulisan error remote origin already exist, karena saya sudah menambahkan remote repository sebelumnya
+
 ![Gambar 8](Screenshot/langkah8.PNG)
 
 9. Push ke Github
@@ -115,7 +117,9 @@ $ git push -u origin main
 
 ![Gambar 9](Screenshot/langkah9.PNG)
 
-kalau pertama kali push, biasanya akan muncul popup yang mengharuskan kita untuk login ke akun.
+kalau pertama kali push, biasanya akan muncul popup yang mengharuskan kita untuk login ke akun github.
+
+Sekian Terimakasih.
 
 
 
